@@ -1,0 +1,7 @@
+## Description Project Docker Node
+
+Run docker container node start hello world, with nodemon listen port 3000
+
+:npm install
+:docker-compose up
+:open in browser localhost:3000
